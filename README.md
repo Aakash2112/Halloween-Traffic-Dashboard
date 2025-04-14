@@ -22,5 +22,10 @@ Residents are advised to start trick-or-treating as early as possible (6:00 PM) 
 - Data/ : Source data
 - Images/ : Screenshots of dashboards
 
+# Dashboard Sample
+
+<img width="1010" alt="Halloween Dashboard " src="https://github.com/user-attachments/assets/29834b0a-c31a-4215-abba-f84491e535c0" />
+
+
 ## Author
 Aakash Hariharan
